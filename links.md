@@ -1,1 +1,2 @@
 - (TypeScript Playground)[https://www.typescriptlang.org/play]
+- (TypeScript Docs: Classes - Member Visibility)[https://www.typescriptlang.org/docs/handbook/2/classes.html#member-visibility]
