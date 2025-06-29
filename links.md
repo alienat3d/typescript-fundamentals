@@ -1,2 +1,5 @@
 - (TypeScript Playground)[https://www.typescriptlang.org/play]
 - (TypeScript Docs: Classes - Member Visibility)[https://www.typescriptlang.org/docs/handbook/2/classes.html#member-visibility]
+- (TypeScript Docs: Generics in Types)[https://www.typescriptlang.org/docs/handbook/2/generics.html#generic-types]
+- ()[https://developer.mozilla.org/en-US/docs/Web/API/structuredClone]
+- (TypeScript Configuration Options)[https://www.typescriptlang.org/tsconfig]
